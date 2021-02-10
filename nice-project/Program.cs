@@ -14,9 +14,6 @@ namespace NiceProject
             var result = stuff.DoWhatNeedsToBeDone(fileReader);
             
             Console.WriteLine($"Result is {result}");
-            
-            // Wait for input
-            Console.ReadLine();
         }
     }
 }
